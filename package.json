@@ -29,7 +29,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://kangdonghwi.github.io/dongplix",
+  "homepage": "https://kangdonghwi.github.io",
   "browserslist": {
     "production": [
       ">0.2%",
