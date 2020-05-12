@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/github.io/dongplix/static/js/main.bd98ae58.chunk.js",
-    "main.js.map": "/github.io/dongplix/static/js/main.bd98ae58.chunk.js.map",
-    "runtime-main.js": "/github.io/dongplix/static/js/runtime-main.7f263cf9.js",
-    "runtime-main.js.map": "/github.io/dongplix/static/js/runtime-main.7f263cf9.js.map",
-    "static/js/2.a952b953.chunk.js": "/github.io/dongplix/static/js/2.a952b953.chunk.js",
-    "static/js/2.a952b953.chunk.js.map": "/github.io/dongplix/static/js/2.a952b953.chunk.js.map",
-    "index.html": "/github.io/dongplix/index.html",
-    "precache-manifest.5cae6ec4eeb0a5b60c8644bc4533f267.js": "/github.io/dongplix/precache-manifest.5cae6ec4eeb0a5b60c8644bc4533f267.js",
-    "service-worker.js": "/github.io/dongplix/service-worker.js",
-    "static/js/2.a952b953.chunk.js.LICENSE.txt": "/github.io/dongplix/static/js/2.a952b953.chunk.js.LICENSE.txt",
-    "static/media/noPosterSmall.png": "/github.io/dongplix/static/media/noPosterSmall.87a0eb6a.png"
+    "main.js": "/dongplix/static/js/main.bd98ae58.chunk.js",
+    "main.js.map": "/dongplix/static/js/main.bd98ae58.chunk.js.map",
+    "runtime-main.js": "/dongplix/static/js/runtime-main.e0d40b9b.js",
+    "runtime-main.js.map": "/dongplix/static/js/runtime-main.e0d40b9b.js.map",
+    "static/js/2.0d9fa49f.chunk.js": "/dongplix/static/js/2.0d9fa49f.chunk.js",
+    "static/js/2.0d9fa49f.chunk.js.map": "/dongplix/static/js/2.0d9fa49f.chunk.js.map",
+    "index.html": "/dongplix/index.html",
+    "precache-manifest.7be9c1065eb1c2121bbcb4bc66e51967.js": "/dongplix/precache-manifest.7be9c1065eb1c2121bbcb4bc66e51967.js",
+    "service-worker.js": "/dongplix/service-worker.js",
+    "static/js/2.0d9fa49f.chunk.js.LICENSE.txt": "/dongplix/static/js/2.0d9fa49f.chunk.js.LICENSE.txt",
+    "static/media/noPosterSmall.png": "/dongplix/static/media/noPosterSmall.87a0eb6a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7f263cf9.js",
-    "static/js/2.a952b953.chunk.js",
+    "static/js/runtime-main.e0d40b9b.js",
+    "static/js/2.0d9fa49f.chunk.js",
     "static/js/main.bd98ae58.chunk.js"
   ]
 }
