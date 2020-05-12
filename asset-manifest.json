@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/static/js/main.eaf32279.chunk.js",
-    "main.js.map": "/static/js/main.eaf32279.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6477b271.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6477b271.js.map",
-    "static/js/2.6b309b27.chunk.js": "/static/js/2.6b309b27.chunk.js",
-    "static/js/2.6b309b27.chunk.js.map": "/static/js/2.6b309b27.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.4cebfde9d5dda3ef32a599e4115c054a.js": "/precache-manifest.4cebfde9d5dda3ef32a599e4115c054a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.6b309b27.chunk.js.LICENSE.txt": "/static/js/2.6b309b27.chunk.js.LICENSE.txt",
-    "static/media/noPosterSmall.png": "/static/media/noPosterSmall.87a0eb6a.png"
+    "main.js": "/dongplix/static/js/main.eaf32279.chunk.js",
+    "main.js.map": "/dongplix/static/js/main.eaf32279.chunk.js.map",
+    "runtime-main.js": "/dongplix/static/js/runtime-main.e0d40b9b.js",
+    "runtime-main.js.map": "/dongplix/static/js/runtime-main.e0d40b9b.js.map",
+    "static/js/2.48b04da5.chunk.js": "/dongplix/static/js/2.48b04da5.chunk.js",
+    "static/js/2.48b04da5.chunk.js.map": "/dongplix/static/js/2.48b04da5.chunk.js.map",
+    "index.html": "/dongplix/index.html",
+    "precache-manifest.63f94fd04c5cc8f3bddb6445bfac3290.js": "/dongplix/precache-manifest.63f94fd04c5cc8f3bddb6445bfac3290.js",
+    "service-worker.js": "/dongplix/service-worker.js",
+    "static/js/2.48b04da5.chunk.js.LICENSE.txt": "/dongplix/static/js/2.48b04da5.chunk.js.LICENSE.txt",
+    "static/media/noPosterSmall.png": "/dongplix/static/media/noPosterSmall.87a0eb6a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6477b271.js",
-    "static/js/2.6b309b27.chunk.js",
+    "static/js/runtime-main.e0d40b9b.js",
+    "static/js/2.48b04da5.chunk.js",
     "static/js/main.eaf32279.chunk.js"
   ]
 }
