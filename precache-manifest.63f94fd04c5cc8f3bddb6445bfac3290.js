@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "404eddc20b98ff11505f1f9282f5f1c6",
+    "revision": "9bda9047513149dc1b6fd77e957cc395",
     "url": "/dongplix/index.html"
   },
   {
-    "revision": "1fe86001ebf2f872a270",
-    "url": "/dongplix/static/js/2.0d9fa49f.chunk.js"
+    "revision": "792c4ab2e3a955c271ac",
+    "url": "/dongplix/static/js/2.48b04da5.chunk.js"
   },
   {
     "revision": "aef280276b8d6f56e9d8dc46988119d9",
-    "url": "/dongplix/static/js/2.0d9fa49f.chunk.js.LICENSE.txt"
+    "url": "/dongplix/static/js/2.48b04da5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5f954cc8121841120cde",
-    "url": "/dongplix/static/js/main.bd98ae58.chunk.js"
+    "revision": "2091b5cb4afbc33b70f0",
+    "url": "/dongplix/static/js/main.eaf32279.chunk.js"
   },
   {
     "revision": "3e506a27590eac3b6a3e",
