@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/github.io/dongplix/static/js/main.bd98ae58.chunk.js",
+    "main.js.map": "/github.io/dongplix/static/js/main.bd98ae58.chunk.js.map",
+    "runtime-main.js": "/github.io/dongplix/static/js/runtime-main.7f263cf9.js",
+    "runtime-main.js.map": "/github.io/dongplix/static/js/runtime-main.7f263cf9.js.map",
+    "static/js/2.a952b953.chunk.js": "/github.io/dongplix/static/js/2.a952b953.chunk.js",
+    "static/js/2.a952b953.chunk.js.map": "/github.io/dongplix/static/js/2.a952b953.chunk.js.map",
+    "index.html": "/github.io/dongplix/index.html",
+    "precache-manifest.5cae6ec4eeb0a5b60c8644bc4533f267.js": "/github.io/dongplix/precache-manifest.5cae6ec4eeb0a5b60c8644bc4533f267.js",
+    "service-worker.js": "/github.io/dongplix/service-worker.js",
+    "static/js/2.a952b953.chunk.js.LICENSE.txt": "/github.io/dongplix/static/js/2.a952b953.chunk.js.LICENSE.txt",
+    "static/media/noPosterSmall.png": "/github.io/dongplix/static/media/noPosterSmall.87a0eb6a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f263cf9.js",
+    "static/js/2.a952b953.chunk.js",
+    "static/js/main.bd98ae58.chunk.js"
+  ]
+}
