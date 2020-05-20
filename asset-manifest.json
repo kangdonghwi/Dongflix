@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/dongplix/static/js/main.eaf32279.chunk.js",
-    "main.js.map": "/dongplix/static/js/main.eaf32279.chunk.js.map",
+    "main.js": "/dongplix/static/js/main.f3fe4a31.chunk.js",
+    "main.js.map": "/dongplix/static/js/main.f3fe4a31.chunk.js.map",
     "runtime-main.js": "/dongplix/static/js/runtime-main.e0d40b9b.js",
     "runtime-main.js.map": "/dongplix/static/js/runtime-main.e0d40b9b.js.map",
     "static/js/2.48b04da5.chunk.js": "/dongplix/static/js/2.48b04da5.chunk.js",
     "static/js/2.48b04da5.chunk.js.map": "/dongplix/static/js/2.48b04da5.chunk.js.map",
     "index.html": "/dongplix/index.html",
-    "precache-manifest.63f94fd04c5cc8f3bddb6445bfac3290.js": "/dongplix/precache-manifest.63f94fd04c5cc8f3bddb6445bfac3290.js",
+    "precache-manifest.d7e7800a6d67ab2ae78fdf3d52765bdd.js": "/dongplix/precache-manifest.d7e7800a6d67ab2ae78fdf3d52765bdd.js",
     "service-worker.js": "/dongplix/service-worker.js",
     "static/js/2.48b04da5.chunk.js.LICENSE.txt": "/dongplix/static/js/2.48b04da5.chunk.js.LICENSE.txt",
     "static/media/noPosterSmall.png": "/dongplix/static/media/noPosterSmall.87a0eb6a.png"
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.e0d40b9b.js",
     "static/js/2.48b04da5.chunk.js",
-    "static/js/main.eaf32279.chunk.js"
+    "static/js/main.f3fe4a31.chunk.js"
   ]
 }
