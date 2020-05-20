@@ -49,8 +49,8 @@ const SearchPresenter = ({
                 title={movie.original_title}
                 imageUrl={movie.poster_path}
                 rating={movie.vote_average}
-                isMovie={true}
                 year={movie.release_date.substring(0, 4)}
+                isMovie={true}
               ></Poster>
             ))}
           </Section>
@@ -72,8 +72,9 @@ const SearchPresenter = ({
       </>
     )}
     {error && <Message color="#e74c3c" text={error}></Message>}
-    {tvResults && movieResults && tvResults.length === 0 && (
+    {tvResults && movieResults && tvResults.length === 0 && movieResults.length === 0 && (
       <Message text="Nothing found" color="#95a5a6"></Message>
+    )}
     )}
   </Container>
 );
