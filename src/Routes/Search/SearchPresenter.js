@@ -6,9 +6,15 @@ import Loader from "Components/Loader";
 import Section from "Components/Section";
 import Message from "Components/Message";
 import Poster from "Components/Poster";
-const Container = styled.div``;
 
-const Form = styled.form``;
+const Container = styled.div`
+  padding: 20px;
+`;
+
+const Form = styled.form`
+  margin-bottom: 50px;
+  width: 100%;
+`;
 
 const Input = styled.input`
   all: unset;
@@ -49,7 +55,6 @@ const SearchPresenter = ({
                 title={movie.original_title}
                 imageUrl={movie.poster_path}
                 rating={movie.vote_average}
-                year={movie.release_date.substring(0, 4)}
                 isMovie={true}
               ></Poster>
             ))}
@@ -64,7 +69,6 @@ const SearchPresenter = ({
                 title={show.original_name}
                 imageUrl={show.poster_path}
                 rating={show.vote_average}
-                year={show.first_air_date.substring(0, 4)}
               ></Poster>
             ))}
           </Section>
@@ -74,7 +78,6 @@ const SearchPresenter = ({
     {error && <Message color="#e74c3c" text={error}></Message>}
     {tvResults && movieResults && tvResults.length === 0 && movieResults.length === 0 && (
       <Message text="Nothing found" color="#95a5a6"></Message>
-    )}
     )}
   </Container>
 );

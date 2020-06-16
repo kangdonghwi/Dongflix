@@ -1,7 +1,7 @@
 import React from "react";
 import propTypes from "prop-types";
 import styled from "styled-components";
-
+import Youtbe from "Components/Youtube";
 import { Helmet } from "react-helmet";
 import Loader from "Components/Loader";
 import Message from "Components/Message";
@@ -111,6 +111,7 @@ const DetailPresenter = ({ result, loading, error }) =>
             </Item>
           </ItemContainer>
           <Overview>{result.overview}</Overview>
+          <Youtbe result={result} />
         </Data>
       </Content>
     </Container>
