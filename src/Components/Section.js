@@ -2,7 +2,6 @@ import React from "react";
 import PropTypes from "prop-types";
 import styled from "styled-components";
 import Slider from "react-slick";
-
 const Container = styled.div`
   :not(:last-child) {
     margin-bottom: 50px;
@@ -10,17 +9,16 @@ const Container = styled.div`
 `;
 
 const settings = {
-  className: "center",
-  centerMode: true,
   infinite: true,
-  centerPadding: "50px",
-  slidesToShow: 6,
+  slidesToShow: 8,
   speed: 500,
+  slidesToScroll: 3,
 };
 
 const Title = styled.span`
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 600;
+  margin-left: 10px;
 `;
 
 const Grid = styled.div`

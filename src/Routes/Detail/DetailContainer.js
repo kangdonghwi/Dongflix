@@ -46,13 +46,6 @@ export default class extends React.Component {
 
   render() {
     const { result, error, loading } = this.state;
-    const opts = {
-      height: "390",
-      width: "640",
-      playerVars: {
-        autoplay: 1,
-      },
-    };
     console.log(this.state);
     return <DetailPresenter result={result} error={error} loading={loading} />;
   }

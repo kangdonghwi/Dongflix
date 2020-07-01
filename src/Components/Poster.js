@@ -9,7 +9,7 @@ const Containter = styled.div`
 
 const Image = styled.div`
   background-image: url(${(props) => props.bgUrl});
-  height: 200px;
+  height: 300px;
   background-size: cover;
   border-radius: 4px;
   background-position: center center;
@@ -22,11 +22,11 @@ const Rating = styled.span`
   right: 5px;
   position: absolute;
   opacity: 0;
+  transition: opacity 0.1s linear;
 `;
 
 const ImageContainer = styled.div`
-  margin: 5px 0;
-
+  margin: 5px;
   position: relative;
   &:hover {
     ${Image} {
@@ -39,9 +39,8 @@ const ImageContainer = styled.div`
 `;
 
 const Title = styled.span`
+  margin-left: 10px;
   display: block;
-
-  margin-bottom: 3px;
 `;
 
 const Year = styled.span`

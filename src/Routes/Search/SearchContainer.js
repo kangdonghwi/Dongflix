@@ -50,7 +50,7 @@ export default class extends React.Component {
   };
 
   render() {
-    const { movieResults, tvResults, searchTerm, loading, error, updateTerm } = this.state;
+    const { movieResults, tvResults, searchTerm, updateTerm, loading, error } = this.state;
 
     return (
       <SearchPresenter
