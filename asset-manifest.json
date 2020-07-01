@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/dongplix/static/js/main.6b839776.chunk.js",
-    "main.js.map": "/dongplix/static/js/main.6b839776.chunk.js.map",
-    "runtime-main.js": "/dongplix/static/js/runtime-main.e0d40b9b.js",
-    "runtime-main.js.map": "/dongplix/static/js/runtime-main.e0d40b9b.js.map",
-    "static/js/2.94d7c945.chunk.js": "/dongplix/static/js/2.94d7c945.chunk.js",
-    "static/js/2.94d7c945.chunk.js.map": "/dongplix/static/js/2.94d7c945.chunk.js.map",
+    "main.js": "/dongplix/static/js/main.484af432.chunk.js",
+    "main.js.map": "/dongplix/static/js/main.484af432.chunk.js.map",
+    "runtime-main.js": "/dongplix/static/js/runtime-main.557b7704.js",
+    "runtime-main.js.map": "/dongplix/static/js/runtime-main.557b7704.js.map",
+    "static/js/2.13759b1a.chunk.js": "/dongplix/static/js/2.13759b1a.chunk.js",
+    "static/js/2.13759b1a.chunk.js.map": "/dongplix/static/js/2.13759b1a.chunk.js.map",
     "index.html": "/dongplix/index.html",
-    "precache-manifest.770877d58ed9919d2c2d7df04e85edc8.js": "/dongplix/precache-manifest.770877d58ed9919d2c2d7df04e85edc8.js",
+    "precache-manifest.14dc6747601dd47aeee39d4433dde5e3.js": "/dongplix/precache-manifest.14dc6747601dd47aeee39d4433dde5e3.js",
     "service-worker.js": "/dongplix/service-worker.js",
-    "static/js/2.94d7c945.chunk.js.LICENSE.txt": "/dongplix/static/js/2.94d7c945.chunk.js.LICENSE.txt",
+    "static/js/2.13759b1a.chunk.js.LICENSE.txt": "/dongplix/static/js/2.13759b1a.chunk.js.LICENSE.txt",
     "static/media/Loading.gif": "/dongplix/static/media/Loading.6bc11c2e.gif",
     "static/media/NoVideo.jpg": "/dongplix/static/media/NoVideo.13526e1e.jpg",
     "static/media/noPosterSmall.png": "/dongplix/static/media/noPosterSmall.87a0eb6a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e0d40b9b.js",
-    "static/js/2.94d7c945.chunk.js",
-    "static/js/main.6b839776.chunk.js"
+    "static/js/runtime-main.557b7704.js",
+    "static/js/2.13759b1a.chunk.js",
+    "static/js/main.484af432.chunk.js"
   ]
 }
