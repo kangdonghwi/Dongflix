@@ -6,9 +6,6 @@ https://kangdonghwi.github.io/dongplix/#/
 - Detail
 - Search
 
-## 기능
-- 영화 검색 기능
-
 ## 특징
 - likecat 프로젝트에서는 fetch를 사용했었고 여기서는 axios 사용 
 - class형 컴포넌트를 사용하기 위해 container presenter 패턴으로 개발
