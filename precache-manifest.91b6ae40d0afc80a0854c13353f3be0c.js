@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba814e4894491e16d0eb0204ecf46a65",
+    "revision": "bf7b77326f0b02e124f9710e7cfed9f2",
     "url": "/dongplix/index.html"
   },
   {
-    "revision": "ba8bcdd2ccb238a0aa1e",
-    "url": "/dongplix/static/js/2.e8730d67.chunk.js"
+    "revision": "429a9cb4740525ebe87c",
+    "url": "/dongplix/static/js/2.aebb97ad.chunk.js"
   },
   {
     "revision": "fa24d2988fd9ee29f9cba16979460922",
-    "url": "/dongplix/static/js/2.e8730d67.chunk.js.LICENSE.txt"
+    "url": "/dongplix/static/js/2.aebb97ad.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d4fb3bf3f4cb2f3967c5",
-    "url": "/dongplix/static/js/main.0159afc0.chunk.js"
+    "revision": "87b4b43bfd77ca6fe9c6",
+    "url": "/dongplix/static/js/main.8f3f6513.chunk.js"
   },
   {
     "revision": "8161667b69be016d5b0f",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "13526e1eb815abe5be9b3acb01d9dccc",
     "url": "/dongplix/static/media/NoVideo.13526e1e.jpg"
+  },
+  {
+    "revision": "eac42b8d229b02713f3b457204f27309",
+    "url": "/dongplix/static/media/header.eac42b8d.jpg"
   },
   {
     "revision": "87a0eb6a89037f2aa1b57bba7d2db7e1",
