@@ -9,6 +9,7 @@ const Container = styled.div`
 `;
 
 const settings = {
+  dots: false,
   infinite: true,
   slidesToShow: 8,
   speed: 500,

@@ -6,6 +6,7 @@ import Section from "Components/Section";
 import Loader from "../../Components/Loader";
 import Message from "../../Components/Message";
 import Poster from "../../Components/Poster";
+import Background from "../../Components/BackgourndImg";
 
 const Container = styled.div`
   padding: 20px;
@@ -20,6 +21,7 @@ const HomePresenter = ({ nowPlaying, popular, upcoming, loading, error }) => (
       <Loader />
     ) : (
       <Container>
+        <Background />
         {nowPlaying && nowPlaying.length > 0 && (
           <Section title="Now Playing">
             {nowPlaying.map((movie) => (
