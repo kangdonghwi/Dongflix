@@ -81,6 +81,7 @@ const DetailPresenter = ({ result, loading, error }) =>
   ) : error ? (
     <Message />
   ) : (
+    
     <Container>
       <Helmet>
         <title>
